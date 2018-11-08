@@ -182,7 +182,7 @@
             "pattern": [],
             "symbolic_name": "facter"
         },
-        {
+        {    
             "command": "/usr/bin/qpid-stat -g --ssl-certificate=/etc/pki/katello/qpid_client_striped.crt -b amqps://localhost:5671",
             "pattern": [],
             "symbolic_name": "qpid_stat_g"
