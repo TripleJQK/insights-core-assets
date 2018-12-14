@@ -321,6 +321,11 @@
             "symbolic_name": "ipcs_s"
         },
         {
+            "command": "/usr/bin/hammer ping",
+            "pattern": [],
+            "symbolic_name": "hammer_ping"
+        },
+        {
             "command": "/sbin/iptables-save",
             "pattern": [],
             "symbolic_name": "iptables"
